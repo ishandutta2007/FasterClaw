@@ -1,9 +1,12 @@
 # FasterClaw: High-Performance, Open Source AI Agent (Go Language)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)](https://github.com/openclaw/openclaw/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/openclaw/openclaw?style=social)](https://github.com/openclaw/openclaw/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)](https://github.com/ishandutta2007/FasterClaw/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/openclaw/openclaw?style=social)](https://github.com/ishandutta2007/FasterClaw/network/members)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 🦞 **FasterClaw** is the ultra-lightweight, high-performance, and privacy-first **open-source AI agent** designed for efficient **self-hosted personal automation**. Rewritten from the ground up in **Go language**, FasterClaw significantly surpasses the original OpenClaw in speed and resource efficiency. It boasts a 99% reduction in memory usage and a 400x faster startup time, making it ideal for running powerful AI automation on **low-cost hardware** and **edge devices** like the Raspberry Pi.
 

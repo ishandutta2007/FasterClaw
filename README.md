@@ -1,11 +1,15 @@
 # FasterClaw: High-Performance, Open Source AI Agent (Go Language)
 
+<p align="center">
+  <img src="assets/banner.svg" alt="FasterClaw Banner - High-Performance Go-powered AI Agent" width="100%">
+</p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)](https://github.com/ishandutta2007/FasterClaw/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/openclaw/openclaw?style=social)](https://github.com/ishandutta2007/FasterClaw/network/members)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
   <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 🦞 **FasterClaw** is the ultra-lightweight, high-performance, and privacy-first **open-source AI agent** designed for efficient **self-hosted personal automation**. Rewritten from the ground up in **Go language**, FasterClaw significantly surpasses the original OpenClaw in speed and resource efficiency. It boasts a 99% reduction in memory usage and a 400x faster startup time, making it ideal for running powerful AI automation on **low-cost hardware** and **edge devices** like the Raspberry Pi.
@@ -14,9 +18,18 @@ FasterClaw empowers you to turn natural language into real-world action, from ma
 
 Embrace **true autonomy** with FasterClaw: **fully open-source**, **privacy-first**, and designed to run **locally** on your hardware (Mac, Linux, Windows, Raspberry Pi, VPS). Bring your own LLM – it supports Claude, GPT, Google Gemini, Llama, Mistral, and other local models. No subscriptions, no cloud lock-in, just pure, **self-hosted AI power**.
 
+### FasterClaw vs SaaS AI Agent Alternatives
+
+| Product | Type | Pricing / Cost | Free Tier Limits | Self-Hosted? |
+| :--- | :--- | :--- | :--- | :--- |
+| **FasterClaw** | Open-Source / Self-Hosted | **$0 (100% Free)** | Unlimited (No limits, Bring-Your-Own-LLM) | **Yes** |
+| **OpenAI Assistants API** | SaaS / API | Pay-per-token / Pay-per-run pricing | $5 free credits (expires after 3 months) | No |
+| **CrewAI Enterprise** | SaaS / Platform | Custom Enterprise pricing | Limited trial runs / tasks | No |
+| **Lindy.ai** | SaaS / AI Assistant | Starts at $49/month | Up to 50 runs/month | No |
 
 ## Table of Contents
 
+- [FasterClaw vs SaaS Alternatives](#fasterclaw-vs-saas-ai-agent-alternatives)
 - [Why FasterClaw?](#why-fasterclaw)
 - [Key Features](#key-features)
 - [How It Works](#how-it-works)
